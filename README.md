@@ -34,4 +34,4 @@ If you have any questions about this projects, please contact us directly at bel
 
 -[Github]('https://github.com/OmerMasih')
 
-### This application is created by Masihullah Omer.👏🏻
+### This application is created by Masihullah Omer.

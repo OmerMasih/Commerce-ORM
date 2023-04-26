@@ -18,7 +18,7 @@ The users for this application are able to veiw, add, edit, and delete from cate
 ## Mock
 
 The following video shows the functionality of the application.
-https://drive.google.com/file/d/1fIvD7S8IM4sx_txPIK2JHnXpWb47vlnH/view
+[Deployed Link](https://drive.google.com/file/d/1fIvD7S8IM4sx_txPIK2JHnXpWb47vlnH/view)
 
 ## License
 
